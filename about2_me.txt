@@ -1,1 +1,3 @@
-checking a
+Name: Aarthi
+Skills: Git, Python
+dss
