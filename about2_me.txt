@@ -1,3 +1,2 @@
-Name: Aarthi
-Skills: Git, Python
-dss
+Name: Aarthi S.
+Skills: Git, Python, Machine Learning
